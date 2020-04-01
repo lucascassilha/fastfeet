@@ -3,7 +3,7 @@
   <img height="400" src="https://github.com/lucascassilha/react-fastfeet/raw/master/.github/logo.png"/>
 </h3>
 
-## Entrega fastfeet - GoStack Rocketseat :rocket:
+## Entrega Fastfeet - GoStack Rocketseat :rocket:
 
 
 *Instruções Backend:*
