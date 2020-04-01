@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/lucascassilha/node-fastfeet.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/lucascassilha/react-fastfeet.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/lucascassilha/react-native-fastfeet.git
